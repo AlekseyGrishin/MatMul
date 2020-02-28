@@ -3,7 +3,7 @@ matrix multiplication in CUDA, this is a toy program for learning CUDA, some fun
 
 
 # test results
-following tests were carried out on a Tesla M2075 card
+following tests were carried out on a Intel Xeon 1650v3 and NVIDIA GTX 1060.
 
 [C\Users\1111\Desktop\MatMul]a
 
